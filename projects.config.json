@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "githubUsername": "shrimankar16",
+    "generatedAt": "2026-08-06T14:56:20.438Z",
+    "lastSetupRun": "2026-08-06T14:56:20.438Z"
+  },
+  "profile": {
+    "name": "Shrijay Mankar",
+    "role": "Full-Stack Developer & Data Scientist",
+    "title": "Full-Stack Developer & Data Scientist",
+    "email": "shrimankar16102004@gmail.com",
+    "github": "https://github.com/shrimankar16",
+    "linkedin": "https://www.linkedin.com/in/shrijay-mankar-4a1b51258/",
+    "bio": "Final year Computer Engineering student and Full-Stack Developer & AI/ML enthusiast. I build production-grade web applications with React, Next.js and Node.js, and I love turning messy data into insight with Python, TensorFlow and scikit-learn. Currently building an AI Shopify Theme Builder and a full-stack expense-splitting app, and I'm open to full-time roles, internships and collaborations."
+  },
+  "projects": [
+    {
+      "id": "shopify-theme-builder",
+      "name": "Shopify Theme Builder",
+      "description": "Next.js app for generating Shopify storefront concepts from prompts, previewing them in real time, editing sections inline, and exporting the result into Shopify-friendly theme assets.",
+      "category": "web",
+      "featured": true,
+      "githubUrl": "https://github.com/shrimankar16/Shopify-Theme-Builder",
+      "homepage": "",
+      "languages": [
+        "TypeScript",
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ],
+      "topics": [
+        "react",
+        "nextjs",
+        "tailwindcss",
+        "ecommerce"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "split-settle",
+      "name": "Split & Settle",
+      "description": "Engineered a custom debt-minimization algorithm to efficiently process complex group transactions. Full-stack expense-splitting web application for groups sharing trip or rent costs.",
+      "category": "web",
+      "featured": true,
+      "githubUrl": "https://github.com/shrimankar16/Split-Settle",
+      "homepage": "",
+      "languages": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL"
+      ],
+      "topics": [
+        "react",
+        "nodejs",
+        "express",
+        "mongodb",
+        "algorithm"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "erp",
+      "name": "ERP",
+      "description": "Full-stack ERP web application built with a modern React + TypeScript stack for managing business operations.",
+      "category": "web",
+      "featured": true,
+      "githubUrl": "https://github.com/shrimankar16/ERP",
+      "homepage": "",
+      "languages": [
+        "TypeScript",
+        "React"
+      ],
+      "topics": [
+        "react",
+        "fullstack",
+        "erp"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "jobby-application",
+      "name": "Jobby Application",
+      "description": "Job search platform front-end with filtering, search and detailed job listings built in React.",
+      "category": "web",
+      "featured": true,
+      "githubUrl": "https://github.com/shrimankar16/Jobby-Application",
+      "homepage": "",
+      "languages": [
+        "JavaScript",
+        "React"
+      ],
+      "topics": [
+        "react",
+        "frontend",
+        "jobs"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "trendz-product-details",
+      "name": "Trendz — Product Details",
+      "description": "E-commerce specific product details page with responsive UI built in React.",
+      "category": "web",
+      "featured": false,
+      "githubUrl": "https://github.com/shrimankar16/Trendz---Specific-Product-Details",
+      "homepage": "",
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "topics": [
+        "react",
+        "ecommerce",
+        "frontend"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "party-menu-application",
+      "name": "Party Menu Application",
+      "description": "Interactive party menu planning web application built in React.",
+      "category": "web",
+      "featured": false,
+      "githubUrl": "https://github.com/shrimankar16/Party-Menu-Application",
+      "homepage": "",
+      "languages": [
+        "JavaScript",
+        "React"
+      ],
+      "topics": [
+        "react",
+        "frontend"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "fraud-detection",
+      "name": "Fraud Detection",
+      "description": "Achieved 94% accuracy and reduced false positives by 15% using optimized scikit-learn models. Machine learning pipeline for detecting fraudulent transactions.",
+      "category": "data",
+      "featured": true,
+      "githubUrl": "https://github.com/shrimankar16/Fraud-Detection",
+      "homepage": "",
+      "languages": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "topics": [
+        "machine-learning",
+        "data-science",
+        "classification",
+        "pandas"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "crypto-price-trends",
+      "name": "Cryptocurrency Price Trends",
+      "description": "Time-series analysis and visualization of cryptocurrency price trends using pandas and numpy.",
+      "category": "data",
+      "featured": true,
+      "githubUrl": "https://github.com/shrimankar16/cryptocurrency-price-trends",
+      "homepage": "",
+      "languages": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "topics": [
+        "data-analysis",
+        "time-series",
+        "pandas",
+        "numpy"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "banking-data-analytics",
+      "name": "Banking Data Analytics Dashboard",
+      "description": "Analytics dashboard exploring banking data with Python and pandas.",
+      "category": "data",
+      "featured": true,
+      "githubUrl": "https://github.com/shrimankar16/Banking-Data-Analytics-Dashboard-",
+      "homepage": "",
+      "languages": [
+        "Python"
+      ],
+      "topics": [
+        "data-analysis",
+        "dashboard",
+        "pandas"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "mutual-fund-analysis",
+      "name": "Mutual Fund Analysis Dashboard",
+      "description": "Data analysis and visualization dashboard for mutual fund performance.",
+      "category": "data",
+      "featured": true,
+      "githubUrl": "https://github.com/shrimankar16/Mutual-Fund-Analysis-Dashboard",
+      "homepage": "",
+      "languages": [
+        "Python"
+      ],
+      "topics": [
+        "data-analysis",
+        "finance",
+        "pandas"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "smart-attendance-facial",
+      "name": "Smart Attendance System (Facial Recognition)",
+      "description": "Computer vision based attendance system using facial recognition built with Python and OpenCV.",
+      "category": "data",
+      "featured": true,
+      "githubUrl": "https://github.com/shrimankar16/Smart-Attendance-System-Using-Facial-Recogination",
+      "homepage": "",
+      "languages": [
+        "Python"
+      ],
+      "topics": [
+        "computer-vision",
+        "opencv",
+        "machine-learning"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "student-performance",
+      "name": "Student Performance Analysis",
+      "description": "Predictive analysis and modeling of student performance in Python.",
+      "category": "data",
+      "featured": false,
+      "githubUrl": "https://github.com/shrimankar16/Student-Performance",
+      "homepage": "",
+      "languages": [
+        "Python"
+      ],
+      "topics": [
+        "machine-learning",
+        "data-science",
+        "model"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "books-recommender-system",
+      "name": "Books Recommender System",
+      "description": "Recommender system for books using collaborative filtering and Python ML libraries.",
+      "category": "data",
+      "featured": false,
+      "githubUrl": "https://github.com/shrimankar16/Books-Recommender-System",
+      "homepage": "",
+      "languages": [
+        "Python"
+      ],
+      "topics": [
+        "recommender-system",
+        "machine-learning"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "gesture-control-system",
+      "name": "Gesture Control System",
+      "description": "Computer vision gesture control system using Python and OpenCV.",
+      "category": "data",
+      "featured": false,
+      "githubUrl": "https://github.com/shrimankar16/Gesture-Control-System",
+      "homepage": "",
+      "languages": [
+        "Python"
+      ],
+      "topics": [
+        "computer-vision",
+        "opencv",
+        "machine-learning"
+      ],
+      "stars": 0,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "icon": "code",
+      "items": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Java",
+        "PHP",
+        "C#"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "icon": "layers",
+      "items": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Redux"
+      ]
+    },
+    {
+      "name": "Backend",
+      "icon": "server",
+      "items": [
+        "Node.js",
+        "Express",
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Databases",
+      "icon": "database",
+      "items": [
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "SQL"
+      ]
+    },
+    {
+      "name": "AI / ML",
+      "icon": "brain",
+      "items": [
+        "TensorFlow",
+        "scikit-learn",
+        "Machine Learning",
+        "Data Science",
+        "NLP",
+        "Computer Vision",
+        "pandas",
+        "NumPy"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "icon": "cloud",
+      "items": [
+        "AWS",
+        "Docker",
+        "Git"
+      ]
+    }
+  ],
+  "linkedinPastedText": ""
+}

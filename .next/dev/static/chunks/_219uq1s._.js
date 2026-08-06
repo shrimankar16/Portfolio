@@ -1,0 +1,5 @@
+(globalThis["TURBOPACK_CHUNK_LISTS"] || (globalThis["TURBOPACK_CHUNK_LISTS"] = [])).push({
+    script: typeof document === "object" ? document.currentScript : undefined,
+    chunks: ["static/chunks/[root-of-the-server]__1ikgu0i._.css","static/chunks/_1s47ldp._.js","static/chunks/src_components_0su-rba._.js","static/chunks/src_components_0m11ehq._.js","static/chunks/node_modules_1qf4205._.js","static/chunks/node_modules_three_build_three_core_18d0oq6.js","static/chunks/node_modules_three_build_three_module_03rsyo6.js","static/chunks/node_modules_three_build_three_module_1_wgwg8.js","static/chunks/node_modules_@react-three_fiber_dist_1znd0a1._.js","static/chunks/node_modules_1vacukb._.js","static/chunks/src_components_Starfield3D_tsx_0jhb2gm._.js","static/chunks/node_modules_@react-three_fiber_dist_0e3k4b4._.js","static/chunks/node_modules_0j9fxhw._.js","static/chunks/src_components_PlanetSystem3D_tsx_1jgho55._.js","static/chunks/src_components_RotatingEarth_tsx_00uumdj._.js"],
+    source: "entry"
+});
