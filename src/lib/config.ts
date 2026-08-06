@@ -52,7 +52,7 @@ const CONFIG_PATH =
 
 export function loadConfig(): SiteConfig {
   try {
-    const raw = fs.readFileSync(CONFIG_PATH, "utf-8");
+    const raw = fs.readFileSync(/*turbopackIgnore: true*/ CONFIG_PATH, "utf-8");
     return JSON.parse(raw) as SiteConfig;
   } catch {
     // Fall back to an empty-but-valid config so the site never hard-crashes.
